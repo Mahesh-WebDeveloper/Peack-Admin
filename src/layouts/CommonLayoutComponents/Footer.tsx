@@ -11,7 +11,7 @@ export function Footer() {
       </div>
       <CardFooter className="flex justify-center py-4 border-t dark:border-gray-700">
           <span className="text-sm text-foreground dark:text-gray-400">
-            Design & Developed By ❤️ Mentem Technologies
+            Design & Developed By ❤️ Mahesh Choudhary
           </span>
         </CardFooter>
     
